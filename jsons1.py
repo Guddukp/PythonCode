@@ -32,3 +32,5 @@ try:
     print(name+kumar)
 except:
     print('except statment without error')
+finally:
+    print('Finally statment.')
